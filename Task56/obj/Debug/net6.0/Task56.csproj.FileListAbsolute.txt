@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework8\Task56\bin\Debug\net6.0\Task56.exe
+C:\Users\nhasa\Desktop\Homework8\Task56\bin\Debug\net6.0\Task56.deps.json
+C:\Users\nhasa\Desktop\Homework8\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework8\Task56\bin\Debug\net6.0\Task56.dll
+C:\Users\nhasa\Desktop\Homework8\Task56\bin\Debug\net6.0\ref\Task56.dll
+C:\Users\nhasa\Desktop\Homework8\Task56\bin\Debug\net6.0\Task56.pdb
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.dll
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\ref\Task56.dll
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.pdb
+C:\Users\nhasa\Desktop\Homework8\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
